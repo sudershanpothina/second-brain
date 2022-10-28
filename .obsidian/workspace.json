@@ -1,0 +1,288 @@
+{
+  "main": {
+    "id": "dc1e4a6122d924bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "0777cb729aa9e090",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10e7f54688224beb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operating System/Linux/Virtualization/Proxmox/Terraform Automation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a5ec5fcb128975fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Container/Security.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19df91b123b1da14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Container/Registries/Artifactory container registry free.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9498fc28dd0c6df3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Container/Security.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "683be27313c850e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Container/Registries/Nexus SonaType.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ea447e91ace28db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Container/Docker/installation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "490dfc46108bc7ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Container/Security.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "afb4f9a511cd830b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Streaming/Debezium.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9608c0f405334e11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming Languages/C++/Installation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f0f550c6694334c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming Languages/C++/Hello world.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "85e51f0f46b66507",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Testing/Postman/Scripting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2630b65dd45cfd33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Operating System/Linux/Virtualization/Proxmox/Terraform Automation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 10
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5ef0bcf50df649a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "de6a4266850446ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94c7e760110897a5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "57ab44a57e387a44",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#kafka-installation",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3efe47d0c963213b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "25b7d1c8acc8e3ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fd4cae7c94e0601",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "39d6c3271ea99a55",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Testing/Postman/Scripting.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e620ea85b836d98d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Testing/Postman/Scripting.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1fa5c40f4bee57d3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1e072aace84023ff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Testing/Postman/Scripting.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "85e51f0f46b66507",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "README.md",
+    "Programming Languages/C++/Hello world.md",
+    "Programming Languages/C++/Installation.md",
+    "Streaming/Debezium.md",
+    "Streaming/KRaft.md",
+    "Container/Security.md",
+    "Container/Registries/Push to insecure registry.md",
+    "Container/Registries/Nexus SonaType.md",
+    "Container/Docker/Commands.md"
+  ]
+}
