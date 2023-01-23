@@ -4,155 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "0777cb729aa9e090",
+        "id": "81792bc7bab4052c",
         "type": "tabs",
         "children": [
           {
-            "id": "10e7f54688224beb",
+            "id": "28836c1fe24e8399",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating System/Linux/Virtualization/Proxmox/Terraform Automation.md",
+                "file": "IaC/terraform/installation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a5ec5fcb128975fa",
+            "id": "191fa138846c8c5b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Container/Security.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "19df91b123b1da14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Container/Registries/Artifactory container registry free.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9498fc28dd0c6df3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Container/Security.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "683be27313c850e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Container/Registries/Nexus SonaType.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ea447e91ace28db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Container/Docker/installation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "490dfc46108bc7ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Container/Security.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "afb4f9a511cd830b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Streaming/Debezium.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9608c0f405334e11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Languages/C++/Installation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f0f550c6694334c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming Languages/C++/Hello world.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85e51f0f46b66507",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Testing/Postman/Scripting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2630b65dd45cfd33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Operating System/Linux/Virtualization/Proxmox/Terraform Automation.md",
+                "file": "IaC/terraform/azure-basics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing/Postman/Scripting.md",
+                "file": "IaC/terraform/azure-basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing/Postman/Scripting.md",
+                "file": "IaC/terraform/azure-basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing/Postman/Scripting.md"
+                "file": "IaC/terraform/azure-basics.md"
               }
             }
           }
@@ -269,20 +149,28 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "open-vscode:VSCode": false
+    }
   },
-  "active": "85e51f0f46b66507",
+  "active": "191fa138846c8c5b",
   "lastOpenFiles": [
-    "Untitled.md",
-    "README.md",
-    "Programming Languages/C++/Hello world.md",
-    "Programming Languages/C++/Installation.md",
-    "Streaming/Debezium.md",
-    "Streaming/KRaft.md",
-    "Container/Security.md",
-    "Container/Registries/Push to insecure registry.md",
-    "Container/Registries/Nexus SonaType.md",
-    "Container/Docker/Commands.md"
+    "Cloud/ACG/Azure/playground/cloud-shell.md",
+    "IaC/terraform/cicd.md",
+    "IaC/terraform/fundamentals.md",
+    "IaC/terraform/module-usage.md",
+    "IaC/terraform/multiple-providers.md",
+    "IaC/terraform/installation.md",
+    "Container/Registries/Artifactory container registry free.md",
+    "Container/Docker/installation.md",
+    "Container/Docker/Commands.md",
+    "().md"
   ]
 }
