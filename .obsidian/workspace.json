@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "35a607f1b81e7938",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IaC/terraform/Import resources.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f209be4e628b9fa9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IaC/terraform/az-vmss.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IaC/terraform/azure-basics.md",
+                "file": "IaC/terraform/az-vmss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IaC/terraform/azure-basics.md",
+                "file": "IaC/terraform/az-vmss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IaC/terraform/azure-basics.md"
+                "file": "IaC/terraform/az-vmss.md"
               }
             }
           }
@@ -160,17 +184,17 @@
       "open-vscode:VSCode": false
     }
   },
-  "active": "191fa138846c8c5b",
+  "active": "f209be4e628b9fa9",
   "lastOpenFiles": [
+    "IaC/terraform/az-networking.md",
+    "IaC/terraform/Initial storage account.md",
+    "IaC/terraform/Import resources.md",
+    "IaC/terraform/azure-basics.md",
     "Cloud/ACG/Azure/playground/cloud-shell.md",
     "IaC/terraform/cicd.md",
     "IaC/terraform/fundamentals.md",
     "IaC/terraform/module-usage.md",
     "IaC/terraform/multiple-providers.md",
-    "IaC/terraform/installation.md",
-    "Container/Registries/Artifactory container registry free.md",
-    "Container/Docker/installation.md",
-    "Container/Docker/Commands.md",
-    "().md"
+    "IaC/terraform/installation.md"
   ]
 }
