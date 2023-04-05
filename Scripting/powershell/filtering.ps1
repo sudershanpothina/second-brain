@@ -17,4 +17,20 @@ Get-ChildItem | Select-Object Name, Length
 
 Get-ChildItem  |
     Select-Object Name, Lenght
+
+# get all properties
+Get-ChildItem | Format-Table -Property *
+
+
+# another way
+Get-ChildItem | Format-list *
     
+
+# get first 5
+Get-ChildItem | Select-Object -first 5
+
+
+# select object properties
+Get-ChildItem | Format-list
+
+Get-ChildItem | Select-Object -Property Name,Lenght
